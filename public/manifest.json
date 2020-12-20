@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+
+	"name": "CSS Viewer",
+	"version": "1.0",
+	"description": "CSS 개발에 도움을 줍니다.",
+
+	"background": {
+		"scripts": ["js/background.js"]
+	}
+}
